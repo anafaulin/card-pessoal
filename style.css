@@ -1,0 +1,30 @@
+body {
+    background-color: #ca8ee4;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+h1 {
+    color: #333;
+}
+p {
+    color: #666;
+}
+a {
+    margin: 10px;
+    color: #007BFF;
+}
+.card{background-color: rgb(220, 185, 252);
+width: 300px;
+padding: 40px;
+margin: 50px auto;
+text-align: center;
+color: white;
+border-radius: 20px;
+box-shadow: 0 0 60px 0px rgb(61, 61, 65);
+}
